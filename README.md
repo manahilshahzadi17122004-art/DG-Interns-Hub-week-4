@@ -1,6 +1,6 @@
 # DG Interns Hub - Week 4: SIEM in Practice
 
-**Intern:** Hashim Ali
+**Intern:** Manahil Shahzadi
 **Topic:** Splunk, Sysmon and log ingestion
 **Date:** 15 November 2026
 
