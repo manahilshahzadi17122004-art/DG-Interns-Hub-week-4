@@ -1,5 +1,5 @@
 # Week 4 - SIEM in Practice: Splunk, Wazuh and Log Ingestion
-**Intern:** Hashim Ali  |  **Program:** DG Interns Hub  |  **Date:** 15 November 2026
+**Intern:** Manahil Shahzadi |  **Program:** DG Interns Hub  |  **Date:** 15 November 2026
 
 ## 1. Goal
 Ingest endpoint logs into a free SIEM, search them and turn attacker behaviour into alerts.
